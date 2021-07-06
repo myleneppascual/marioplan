@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `npm run lint -- --fix`
+inside functions directory
+
+Developers often run ESLint using npm run. 
+
+For example, suppose your package.json file includes the below lines:
+
+"scripts": {
+  "lint": "eslint ."
+}
+In order to run eslint --fix, you need to run npm run lint -- --fix. Note the extra --. You only need the -- if you're running ESLint in an npm script!
+
+reference from https://masteringjs.io/tutorials/eslint/fix
+
+##firebase
+run `firebase login`
+firebase deploy --only functions
+
+also `firebase logout`

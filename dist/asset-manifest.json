@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23fb015e.chunk.css",
+    "main.js": "/static/js/main.8b711773.chunk.js",
+    "main.js.map": "/static/js/main.8b711773.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b528781.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b528781.js.map",
+    "static/js/2.0d4b8716.chunk.js": "/static/js/2.0d4b8716.chunk.js",
+    "static/js/2.0d4b8716.chunk.js.map": "/static/js/2.0d4b8716.chunk.js.map",
+    "static/js/3.da342ffa.chunk.js": "/static/js/3.da342ffa.chunk.js",
+    "static/js/3.da342ffa.chunk.js.map": "/static/js/3.da342ffa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.23fb015e.chunk.css.map": "/static/css/main.23fb015e.chunk.css.map",
+    "static/js/2.0d4b8716.chunk.js.LICENSE.txt": "/static/js/2.0d4b8716.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/marioI-img.c9fe338e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b528781.js",
+    "static/js/2.0d4b8716.chunk.js",
+    "static/css/main.23fb015e.chunk.css",
+    "static/js/main.8b711773.chunk.js"
+  ]
+}
